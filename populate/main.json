@@ -1,0 +1,590 @@
+[
+    {
+        "title": "Be verb (am/is/are) + personal information",
+        "themes": ["Personal Information"],
+        "level": "a1",
+        "topic": "be-verb-personal-information"
+    },
+    {
+        "title": "Personal pronouns (I/you/he/she/it/we/they)",
+        "themes": ["Friends"],
+        "level": "a1",
+        "topic": "personal-pronouns"
+    },
+    {
+        "title": "Possessive adjectives (my, your, his, her, our, their)",
+        "themes": ["Family"],
+        "level": "a1",
+        "topic": "possessive-adjectives"
+    },
+    {
+        "title": "There is / There are (existence)",
+        "themes": ["Home"],
+        "level": "a1",
+        "topic": "there-is-there-are"
+    },
+    {
+        "title": "Articles: a / an / the (basic use)",
+        "themes": ["Shopping"],
+        "level": "a1",
+        "topic": "articles-basic-use"
+    },
+    {
+        "title": "Plural nouns (regular and common irregular)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "plural-nouns"
+    },
+    {
+        "title": "Demonstratives (this/that/these/those)",
+        "themes": ["Shopping"],
+        "level": "a1",
+        "topic": "demonstratives"
+    },
+    {
+        "title": "Have got / Has got (possession)",
+        "themes": ["Family"],
+        "level": "a1",
+        "topic": "have-got-possession"
+    },
+    {
+        "title": "Imperatives (commands, instructions)",
+        "themes": ["Public Services"],
+        "level": "a1",
+        "topic": "imperatives"
+    },
+    {
+        "title": "Present simple: affirmative, negative, questions",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "present-simple"
+    },
+    {
+        "title": "Adverbs of frequency (always, often, never, sometimes)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "adverbs-of-frequency"
+    },
+    {
+        "title": "Prepositions of place (in, on, under, next to, behind, etc.)",
+        "themes": ["Home"],
+        "level": "a1",
+        "topic": "prepositions-of-place"
+    },
+    {
+        "title": "Prepositions of time (in, on, at)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "prepositions-of-time"
+    },
+    {
+        "title": "Can / Can't (ability, permission)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "can-cant"
+    },
+    {
+        "title": "Question words (who, what, where, when, why, how)",
+        "themes": ["Friends"],
+        "level": "a1",
+        "topic": "question-words"
+    },
+    {
+        "title": "Like / Love / Hate + noun / verb-ing",
+        "themes": ["Hobbies"],
+        "level": "a1",
+        "topic": "like-love-hate"
+    },
+    {
+        "title": "Simple conjunctions (and, but, or)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "simple-conjunctions"
+    },
+    {
+        "title": "Object pronouns (me, you, him, her, us, them)",
+        "themes": ["Friends"],
+        "level": "a1",
+        "topic": "object-pronouns"
+    },
+    {
+        "title": "Simple possessive 's (John's book)",
+        "themes": ["Family"],
+        "level": "a1",
+        "topic": "possessive-s"
+    },
+    {
+        "title": "Common time expressions with present simple (every day, in the morning)",
+        "themes": ["Daily Life"],
+        "level": "a1",
+        "topic": "present-simple-time-expressions"
+    },
+    {
+        "title": "Past simple: regular verbs (affirmative)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "past-simple-regular-verbs"
+    },
+    {
+        "title": "Past simple: irregular verbs (common ones)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "past-simple-irregular-verbs"
+    },
+    {
+        "title": "Past simple: negative and questions (did / didn't)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "past-simple-negation-questions"
+    },
+    {
+        "title": "Be going to (plans and intentions)",
+        "themes": ["Travel"],
+        "level": "a2",
+        "topic": "be-going-to-future"
+    },
+    {
+        "title": "Present continuous: actions now and future arrangements",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "present-continuous-now-future"
+    },
+    {
+        "title": "Can / Could / Would like (offers, requests, polite language)",
+        "themes": ["Public Services"],
+        "level": "a2",
+        "topic": "can-could-would-like"
+    },
+    {
+        "title": "Have to / Don't have to (obligation, necessity)",
+        "themes": ["School"],
+        "level": "a2",
+        "topic": "have-to-obligation"
+    },
+    {
+        "title": "Comparatives (bigger than, more interesting)",
+        "themes": ["Shopping"],
+        "level": "a2",
+        "topic": "comparatives"
+    },
+    {
+        "title": "Superlatives (the biggest, the most beautiful)",
+        "themes": ["Shopping"],
+        "level": "a2",
+        "topic": "superlatives"
+    },
+    {
+        "title": "Countable / Uncountable nouns + some / any / a lot of",
+        "themes": ["Food"],
+        "level": "a2",
+        "topic": "countable-uncountable-some-any"
+    },
+    {
+        "title": "Much / Many / A lot of / A few / A little",
+        "themes": ["Shopping"],
+        "level": "a2",
+        "topic": "much-many-a-lot-of"
+    },
+    {
+        "title": "Too / Enough (with adjectives)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "too-enough"
+    },
+    {
+        "title": "Past time expressions (yesterday, last week, ago)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "past-time-expressions"
+    },
+    {
+        "title": "Future with will (predictions, decisions)",
+        "themes": ["Weather"],
+        "level": "a2",
+        "topic": "future-with-will"
+    },
+    {
+        "title": "Zero conditional (If + present simple, present simple)",
+        "themes": ["Health"],
+        "level": "a2",
+        "topic": "zero-conditional"
+    },
+    {
+        "title": "Verb + to infinitive / verb + -ing (want to, enjoy doing)",
+        "themes": ["Hobbies"],
+        "level": "a2",
+        "topic": "verb-patterns-infinitive-gerund"
+    },
+    {
+        "title": "Adverbs of manner (slowly, quickly, well)",
+        "themes": ["Daily Life"],
+        "level": "a2",
+        "topic": "adverbs-of-manner"
+    },
+    {
+        "title": "Prepositions of movement (into, onto, out of, across)",
+        "themes": ["Travel"],
+        "level": "a2",
+        "topic": "prepositions-of-movement"
+    },
+    {
+        "title": "Like / Would like / Want + object / to-infinitive",
+        "themes": ["Hobbies"],
+        "level": "a2",
+        "topic": "like-would-like-want"
+    },
+    {
+        "title": "Simple relative clauses with who / which / that",
+        "themes": ["Friends"],
+        "level": "a2",
+        "topic": "relative-clauses-simple"
+    },
+    {
+        "title": "Present perfect (ever, never, just, already, yet)",
+        "themes": ["Travel"],
+        "level": "b1",
+        "topic": "present-perfect-ever-never-just-already-yet"
+    },
+    {
+        "title": "Present perfect with for / since (unfinished time)",
+        "themes": ["Childhood"],
+        "level": "b1",
+        "topic": "present-perfect-with-for-since"
+    },
+    {
+        "title": "Present perfect vs. past simple (life experience vs. past events)",
+        "themes": ["Cats"],
+        "level": "b1",
+        "topic": "present-perfect-vs-past-simple"
+    },
+    {
+        "title": "Past continuous (actions in progress in the past)",
+        "themes": ["Dogs"],
+        "level": "b1",
+        "topic": "past-continuous"
+    },
+    {
+        "title": "Used to + verb (past habits, states)",
+        "themes": ["Cuisine"],
+        "level": "b1",
+        "topic": "used-to-verb"
+    },
+    {
+        "title": "First conditional (real future possibility)",
+        "themes": ["Jobs"],
+        "level": "b1",
+        "topic": "first-conditional"
+    },
+    {
+        "title": "Second conditional (hypothetical present or future)",
+        "themes": ["Championship"],
+        "level": "b1",
+        "topic": "second-conditional"
+    },
+    {
+        "title": "Should / Ought to / Had better (advice, recommendation)",
+        "themes": ["Education"],
+        "level": "b1",
+        "topic": "should-ought-to-had-better"
+    },
+    {
+        "title": "Must / Have to / Need to (obligation)",
+        "themes": ["Health"],
+        "level": "b1",
+        "topic": "must-have-to-need-to"
+    },
+    {
+        "title": "May / Might / Could (possibility)",
+        "themes": ["Weather"],
+        "level": "b1",
+        "topic": "may-might-could"
+    },
+    {
+        "title": "Question tags (You're coming, aren't you?)",
+        "themes": ["Family"],
+        "level": "b1",
+        "topic": "question-tags"
+    },
+    {
+        "title": "So / Neither + auxiliary (So do I. Neither am I.)",
+        "themes": ["Friends"],
+        "level": "b1",
+        "topic": "so-neither-auxiliary"
+    },
+    {
+        "title": "Too / Either / Neither / Both (agreement, contrast)",
+        "themes": ["Debate"],
+        "level": "b1",
+        "topic": "too-either-neither-both"
+    },
+    {
+        "title": "Reported speech (statements, questions)",
+        "themes": ["Gossip"],
+        "level": "b1",
+        "topic": "reported-speech"
+    },
+    {
+        "title": "Defining relative clauses (who, which, that)",
+        "themes": ["Movies"],
+        "level": "b1",
+        "topic": "defining-relative-clauses"
+    },
+    {
+        "title": "Adjective + preposition patterns (good at, interested in)",
+        "themes": ["Sports"],
+        "level": "b1",
+        "topic": "adjective-preposition-patterns"
+    },
+    {
+        "title": "Simple phrasal verbs (get up, look after, take off)",
+        "themes": ["Entertainment"],
+        "level": "b1",
+        "topic": "simple-phrasal-verbs"
+    },
+    {
+        "title": "Reflexive pronouns (myself, yourself, etc.)",
+        "themes": ["Beach"],
+        "level": "b1",
+        "topic": "reflexive-pronouns"
+    },
+    {
+        "title": "Present perfect continuous (I've been working)",
+        "themes": ["Work"],
+        "level": "b1-b2",
+        "topic": "present-perfect-continuous"
+    },
+    {
+        "title": "Past perfect (had + past participle)",
+        "themes": ["Past Events"],
+        "level": "b1-b2",
+        "topic": "past-perfect"
+    },
+    {
+        "title": "Future continuous (will be doing)",
+        "themes": ["Plans"],
+        "level": "b1-b2",
+        "topic": "future-continuous"
+    },
+    {
+        "title": "Future perfect (will have done)",
+        "themes": ["Plans"],
+        "level": "b1-b2",
+        "topic": "future-perfect"
+    },
+    {
+        "title": "Modals of deduction (must, might, can’t + base verb)",
+        "themes": ["Daily Life"],
+        "level": "b1-b2",
+        "topic": "modals-of-deduction-present"
+    },
+    {
+        "title": "Modals in the past (should have, could have, might have)",
+        "themes": ["Past Events"],
+        "level": "b1-b2",
+        "topic": "modals-in-the-past"
+    },
+    {
+        "title": "Passive voice: present simple & past simple",
+        "themes": ["Public Services"],
+        "level": "b1-b2",
+        "topic": "passive-voice-simple"
+    },
+    {
+        "title": "Passive voice with other tenses (present perfect, future)",
+        "themes": ["Public Services"],
+        "level": "b1-b2",
+        "topic": "passive-voice-advanced"
+    },
+    {
+        "title": "Causative: have/get something done",
+        "themes": ["Public Services"],
+        "level": "b1-b2",
+        "topic": "causative-have-get-something-done"
+    },
+    {
+        "title": "Reported speech with backshifting (tenses, pronouns)",
+        "themes": ["Friends"],
+        "level": "b1-b2",
+        "topic": "reported-speech-backshifting"
+    },
+    {
+        "title": "Relative clauses: omission of relative pronoun",
+        "themes": ["Daily Life"],
+        "level": "b1-b2",
+        "topic": "relative-clauses-omission"
+    },
+    {
+        "title": "Zero, First & Second Conditionals mixed use",
+        "themes": ["Daily Life"],
+        "level": "b1-b2",
+        "topic": "mixed-conditionals"
+    },
+    {
+        "title": "Wish / If only + past simple or past perfect",
+        "themes": ["Regrets"],
+        "level": "b1-b2",
+        "topic": "wish-if-only"
+    },
+    {
+        "title": "Gerunds and infinitives with verbs and expressions",
+        "themes": ["Hobbies"],
+        "level": "b1-b2",
+        "topic": "gerunds-infinitives-advanced"
+    },
+    {
+        "title": "Phrasal verbs with separable/inseparable forms",
+        "themes": ["Daily Life"],
+        "level": "b1-b2",
+        "topic": "phrasal-verbs-advanced"
+    },
+    {
+        "title": "Adverbial clauses (time, reason, contrast, purpose)",
+        "themes": ["Daily Life"],
+        "level": "b1-b2",
+        "topic": "adverbial-clauses"
+    },
+    {
+        "title": "Inversion after negative adverbials (Never have I...)",
+        "themes": ["Culture"],
+        "level": "b1-b2",
+        "topic": "inversion-negative-adverbials"
+    },
+    {
+        "title": "Emphatic structures (What I need is..., The thing is...)",
+        "themes": ["Culture"],
+        "level": "b1-b2",
+        "topic": "emphatic-structures"
+    },
+    {
+        "title": "Ellipsis and substitution (So do I, Neither does he)",
+        "themes": ["Friends"],
+        "level": "b1-b2",
+        "topic": "ellipsis-substitution"
+    },
+    {
+        "title": "Collocations: make/do/take/get + noun combinations",
+        "themes": ["Work"],
+        "level": "b1-b2",
+        "topic": "common-collocations"
+    },
+    {
+        "title": "Past perfect (had + past participle)",
+        "themes": ["Electric Cars"],
+        "level": "b2",
+        "topic": "past-perfect"
+    },
+    {
+        "title": "Future perfect and future continuous (will have done / will be doing)",
+        "themes": ["Space Travel"],
+        "level": "b2",
+        "topic": "future-perfect-continuous"
+    },
+    {
+        "title": "Mixed conditionals (If I had..., I would...)",
+        "themes": ["Family"],
+        "level": "b2",
+        "topic": "mixed-conditionals"
+    },
+    {
+        "title": "Wish / If only (present and past regrets)",
+        "themes": ["Movies"],
+        "level": "b2",
+        "topic": "wish-if-only"
+    },
+    {
+        "title": "Modals in the past (should have, could have, might have)",
+        "themes": ["School"],
+        "level": "b2",
+        "topic": "modals-in-the-past"
+    },
+    {
+        "title": "Passive voice: present and past simple",
+        "themes": ["Diplomatic Relations"],
+        "level": "b2",
+        "topic": "passive-voice-present-past-simple"
+    },
+    {
+        "title": "Passive voice: present perfect, future, and modals",
+        "themes": ["Visiting Foreign Countries"],
+        "level": "b2",
+        "topic": "passive-voice-present-perfect-future-modals"
+    },
+    {
+        "title": "Causative structures (have/get something done)",
+        "themes": ["Car Mechanics"],
+        "level": "b2",
+        "topic": "causative-structures"
+    },
+    {
+        "title": "Inversion for emphasis (Rarely had I seen...)",
+        "themes": ["Circus"],
+        "level": "b2",
+        "topic": "inversion-for-emphasis"
+    },
+    {
+        "title": "Linking words (however, although, despite, etc.)",
+        "themes": ["Astronomy"],
+        "level": "b2",
+        "topic": "linking-words"
+    },
+    {
+        "title": "Relative clauses: advanced use and omission of relative pronoun",
+        "themes": ["Hobbies"],
+        "level": "b2",
+        "topic": "relative-clauses"
+    },
+    {
+        "title": "Nominalisation (making nouns from verbs/adjectives)",
+        "themes": ["Video Games"],
+        "level": "b2",
+        "topic": "nominalisation"
+    },
+    {
+        "title": "Reported speech: complex tenses and time shifts",
+        "themes": ["Netflix"],
+        "level": "b2",
+        "topic": "reported-speech"
+    },
+    {
+        "title": "Ellipsis and substitution (so do I, neither do I)",
+        "themes": ["Animals"],
+        "level": "b2",
+        "topic": "ellipsis-substitution"
+    },
+    {
+        "title": "Participle clauses (Walking down the street, I saw...)",
+        "themes": ["Celebrities"],
+        "level": "b2",
+        "topic": "participle-clauses"
+    },
+    {
+        "title": "Adverbial clauses (time, reason, contrast, purpose)",
+        "themes": ["Economics"],
+        "level": "b2",
+        "topic": "adverbial-clauses"
+    },
+    {
+        "title": "Emphatic structures (What I really need is...)",
+        "themes": ["Entertainment"],
+        "level": "b2",
+        "topic": "emphatic-structures"
+    },
+    {
+        "title": "Modal verbs of deduction (must, might, can't — present and past)",
+        "themes": ["Responsibilities"],
+        "level": "b2",
+        "topic": "modal-verbs-of-deduction"
+    },
+    {
+        "title": "Collocations with make, do, take, get, etc.",
+        "themes": ["Habits"],
+        "level": "b2",
+        "topic": "collocations-with-make-do-take-get-etc"
+    },
+    {
+        "title": "Phrasal verbs with multiple meanings and syntax rules",
+        "themes": ["Sports"],
+        "level": "b2",
+        "topic": "phrasal-verbs-with-multiple-meanings-and-syntax-rules"
+    }
+]

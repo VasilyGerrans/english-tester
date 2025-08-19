@@ -1,0 +1,25 @@
+/logo.svg
+  Cache-Control: public, max-age=31536000, immutable
+  ETag: W/"logo-svg-v1"
+
+# Static assets - work with Cloudflare edge caching
+*.svg
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.jpg
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.png
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.ico
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.css
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.js
+  Cache-Control: public, max-age=31536000, s-maxage=31536000
+
+*.html
+  Cache-Control: public, max-age=86400, s-maxage=86400

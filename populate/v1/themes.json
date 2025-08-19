@@ -1,0 +1,160 @@
+{
+  "A1": {
+    "adverbs-of-frequency": [],
+    "articles-basic-use": [],
+    "be-verb": [],
+    "can-cant": [],
+    "demonstratives": [],
+    "have-got-possession": [],
+    "imperatives": [],
+    "like-love-hate": [],
+    "object-pronouns": [],
+    "personal-pronouns": [],
+    "plural-nouns": [],
+    "possessive-adjectives": [],
+    "possessive-s": [],
+    "prepositions-of-place": [],
+    "prepositions-of-time": [],
+    "present-simple": [],
+    "present-simple-negatives-questions": [],
+    "present-simple-time-expressions": [],
+    "question-words": [],
+    "simple-conjunctions": [],
+    "singular-plural-nouns": [],
+    "there-is-there-are": []
+  },
+  "A2": {
+    "adverbs-of-manner": [],
+    "be-going-to-future": [],
+    "can-could-would-like": [],
+    "comparatives": [],
+    "countable-uncountable-some-any": [],
+    "future-with-will": [],
+    "have-to-obligation": [],
+    "much-many-a-lot-of": [],
+    "must-mustn-t-have-to-don-t-have-to": [],
+    "past-simple-irregular-verbs": [],
+    "past-simple-negation-questions": [],
+    "past-simple-regular-verbs": [],
+    "past-time-expressions": [],
+    "prepositions-of-movement": [],
+    "prepositions-of-time": [],
+    "present-continuous-now-future": [],
+    "question-formation": [],
+    "superlatives": [],
+    "too-enough": [],
+    "verb-infinitive-gerund": [],
+    "would-like-want": [],
+    "zero-conditional": []
+  },
+  "B1": {
+    "adjective-preposition": [],
+    "first-conditional": [],
+    "gerunds-and-infinitives": [],
+    "modals-advice-possibility": [],
+    "past-continuous": [],
+    "present-perfect-ever-never-just-already-yet": [],
+    "present-perfect-vs-past-simple": [],
+    "present-perfect-with-for-since": [],
+    "question-tags": [],
+    "reflexive-pronouns": [],
+    "reported-speech-commands": [],
+    "reported-speech-questions": [],
+    "reported-speech-statements": [],
+    "second-conditional": [],
+    "should-ought-to-had-better": [],
+    "simple-phrasal-verbs": [],
+    "so-neither-auxiliary": [],
+    "too-either-neither-both": [],
+    "used-to": []
+  },
+  "B1-B2": {
+    "adverbial-time-contrast-reason": [],
+    "causative-structures": [
+      "beauty-and-fashion",
+      "car-mechanics",
+      "cars",
+      "home-improvement",
+      "technology-maintenance"
+    ],
+    "collocations-make-do-take-get": [],
+    "future-continuous": [],
+    "future-perfect": [],
+    "future-perfect-continuous": [
+      "career-and-professional-life",
+      "environmental-changes",
+      "life-milestones",
+      "scientific-advancements",
+      "travel-plans-and-itineraries"
+    ],
+    "gerunds-infinitives-advanced": [],
+    "mixed-conditionals": [
+      "economic-situations",
+      "historical-events-and-alternatives",
+      "regrets-and-hypothetical-situations",
+      "relationships-and-life-choices",
+      "science-fiction-and-alternate-futures"
+    ],
+    "modals-in-the-past": [
+      "astronomy",
+      "beach",
+      "daily-life",
+      "holidays",
+      "school"
+    ],
+    "modal-verbs-of-deduction": [
+      "crime-and-mystery",
+      "cultural-differences-and-misunderstandings",
+      "health-and-symptoms",
+      "science-experiments",
+      "social-situations-and-behavior"
+    ],
+    "participle-clauses": [
+      "city-life-and-street-descriptions",
+      "daily-routines-and-habits",
+      "festivals-and-cultural-events",
+      "nature-and-outdoor-activities",
+      "travel-stories"
+    ],
+    "passive-voice-present-past-simple": [
+      "art-and-cultural-heritage",
+      "daily-life",
+      "diplomatic-relations",
+      "inventions-and-discoveries",
+      "news-reports-and-journalism"
+    ],
+    "passive-voice-present-perfect-future-modals": [
+      "business-and-contracts",
+      "friends",
+      "scientific-research",
+      "technology-and-innovation",
+      "visiting-foreign-countries"
+    ],
+    "past-perfect": [
+      "dogs",
+      "electric-cars",
+      "habits",
+      "languages",
+      "responsibilities"
+    ],
+    "question-formation": [],
+    "reported-speech": [],
+    "so-do-I-neither-do-I": [],
+    "third-conditional": [],
+    "wish-if-only": []
+  },
+  "B2": {
+    "adjective-order": [],
+    "advanced-linking-words": [],
+    "cleft-sentences": [],
+    "ellipsis-and-substitution": [],
+    "emphatic-structures": [],
+    "future-in-the-past": [],
+    "idiomatic-modal-verbs": [],
+    "inversion-of-emphasis": [],
+    "nominalization": [],
+    "passive-infinitive-modals": [],
+    "passive-with-reporting": [],
+    "reported-speech": []
+  }
+}

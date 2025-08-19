@@ -1,0 +1,670 @@
+{
+    "A1": {
+        "adverbs-of-frequency": [
+            "daily-routines",
+            "free-time-activities",
+            "school-schedule",
+            "chores",
+            "hobbies"
+        ],
+        "articles-basic-use": [
+            "food-and-drinks",
+            "animals",
+            "clothing",
+            "household-items",
+            "transportation"
+        ],
+        "be-verb": [
+            "family",
+            "jobs-and-occupations",
+            "feelings-and-emotions",
+            "places-in-town",
+            "weather"
+        ],
+        "can-cant": [
+            "sports-and-abilities",
+            "musical-instruments",
+            "household-chores",
+            "languages",
+            "school-subjects"
+        ],
+        "demonstratives": [
+            "classroom-objects",
+            "clothing-shopping",
+            "furniture",
+            "toys",
+            "food-shopping"
+        ],
+        "have-got-possession": [
+            "family-members",
+            "pets",
+            "personal-belongings",
+            "clothing",
+            "school-supplies"
+        ],
+        "imperatives": [
+            "classroom-instructions",
+            "recipes-and-cooking",
+            "road-safety",
+            "daily-routines",
+            "sports-rules"
+        ],
+        "like-love-hate": [
+            "hobbies",
+            "sports",
+            "music",
+            "food-and-drinks",
+            "school-subjects"
+        ],
+        "object-pronouns": [
+            "family",
+            "friends",
+            "sports",
+            "school",
+            "daily-life"
+        ],
+        "personal-pronouns": [
+            "introductions",
+            "family",
+            "friends",
+            "classmates",
+            "teachers"
+        ],
+        "plural-nouns": [
+            "classroom-objects",
+            "animals",
+            "clothing",
+            "furniture",
+            "food"
+        ],
+        "possessive-adjectives": [
+            "family",
+            "friends",
+            "pets",
+            "personal-belongings",
+            "clothing"
+        ],
+        "possessive-s": [
+            "family",
+            "friends",
+            "pets",
+            "classmates",
+            "shop-owners"
+        ],
+        "prepositions-of-place": [
+            "furniture",
+            "classroom-objects",
+            "parks",
+            "city-places",
+            "rooms-in-a-house"
+        ],
+        "prepositions-of-time": [
+            "daily-schedule",
+            "school-timetable",
+            "birthdays",
+            "holidays",
+            "appointments"
+        ],
+        "present-simple": [
+            "daily-routines",
+            "school-life",
+            "sports",
+            "free-time-activities",
+            "jobs-and-work"
+        ],
+        "present-simple-negatives-questions": [
+            "daily-life",
+            "school",
+            "hobbies",
+            "family-routines",
+            "likes-and-dislikes"
+        ],
+        "present-simple-time-expressions": [
+            "daily-life",
+            "school-schedule",
+            "hobbies",
+            "weekend-plans",
+            "sports"
+        ],
+        "question-words": [
+            "personal-information",
+            "directions",
+            "family",
+            "hobbies",
+            "school"
+        ],
+        "simple-conjunctions": [
+            "daily-life",
+            "school",
+            "hobbies",
+            "shopping",
+            "sports"
+        ],
+        "singular-plural-nouns": [
+            "shopping",
+            "classroom",
+            "food",
+            "animals",
+            "clothing"
+        ],
+        "there-is-there-are": [
+            "rooms-in-a-house",
+            "city-places",
+            "classroom-objects",
+            "nature",
+            "shops"
+        ]
+    },
+    "A2": {
+        "adverbs-of-manner": [
+            "sports",
+            "cooking",
+            "daily-routines",
+            "travel",
+            "school-activities"
+        ],
+        "be-going-to-future": [
+            "holiday-plans",
+            "weekend-activities",
+            "school-projects",
+            "family-events",
+            "future-jobs"
+        ],
+        "can-could-would-like": [
+            "shopping",
+            "ordering-food",
+            "inviting-someone",
+            "asking-for-help",
+            "offering-help"
+        ],
+        "comparatives": [
+            "clothing",
+            "weather",
+            "sports",
+            "places-in-town",
+            "school-subjects"
+        ],
+        "countable-uncountable-some-any": [
+            "food-and-drinks",
+            "shopping",
+            "kitchen",
+            "party-preparations",
+            "cooking"
+        ],
+        "future-with-will": [
+            "predictions",
+            "weather-forecast",
+            "future-jobs",
+            "travel",
+            "school-exams"
+        ],
+        "have-to-obligation": [
+            "school-rules",
+            "house-rules",
+            "public-places",
+            "sports",
+            "health-and-safety"
+        ],
+        "much-many-a-lot-of": [
+            "shopping",
+            "food-and-drinks",
+            "household-items",
+            "school-supplies",
+            "sports-equipment"
+        ],
+        "must-mustn-t-have-to-don-t-have-to": [
+            "school-rules",
+            "house-rules",
+            "health-and-safety",
+            "travel",
+            "public-places"
+        ],
+        "past-simple-irregular-verbs": [
+            "holidays",
+            "travel",
+            "school-events",
+            "weekend-activities",
+            "family-stories"
+        ],
+        "past-simple-negation-questions": [
+            "holidays",
+            "travel",
+            "weekend",
+            "school-trips",
+            "shopping"
+        ],
+        "past-simple-regular-verbs": [
+            "daily-life",
+            "past-holidays",
+            "sports-events",
+            "school-activities",
+            "free-time"
+        ],
+        "past-time-expressions": [
+            "holidays",
+            "weekend-activities",
+            "school-trips",
+            "birthdays",
+            "special-events"
+        ],
+        "prepositions-of-movement": [
+            "sports",
+            "directions",
+            "travel",
+            "shopping",
+            "classroom-instructions"
+        ],
+        "prepositions-of-time": [
+            "holidays",
+            "appointments",
+            "daily-schedule",
+            "school-timetable",
+            "special-events"
+        ],
+        "present-continuous-now-future": [
+            "plans",
+            "arrangements",
+            "travel",
+            "school-activities",
+            "family-events"
+        ],
+        "question-formation": [
+            "shopping",
+            "holidays",
+            "school",
+            "sports",
+            "daily-life"
+        ],
+        "superlatives": [
+            "places",
+            "food",
+            "sports",
+            "school-subjects",
+            "weather"
+        ],
+        "too-enough": [
+            "clothing",
+            "food",
+            "shopping",
+            "sports",
+            "school-activities"
+        ],
+        "verb-infinitive-gerund": [
+            "hobbies",
+            "sports",
+            "shopping",
+            "free-time",
+            "school-activities"
+        ],
+        "would-like-want": [
+            "shopping",
+            "ordering-food",
+            "invitations",
+            "travel",
+            "family-plans"
+        ],
+        "zero-conditional": [
+            "health",
+            "school-rules",
+            "sports-rules",
+            "daily-life",
+            "cooking"
+        ]
+    },
+    "B1": {
+        "adjective-preposition": [
+            "feelings-and-emotions",
+            "relationships",
+            "school-life",
+            "hobbies-and-interests",
+            "sports"
+        ],
+        "first-conditional": [
+            "plans-and-arrangements",
+            "weather-forecast",
+            "travel-and-holidays",
+            "sports-competitions",
+            "school-projects"
+        ],
+        "gerunds-and-infinitives": [
+            "hobbies-and-leisure",
+            "free-time-activities",
+            "travel-and-tourism",
+            "education-and-learning",
+            "sports-and-fitness"
+        ],
+        "modals-advice-possibility": [
+            "health-and-lifestyle",
+            "relationships-and-friendship",
+            "travel-and-safety",
+            "sports-strategies",
+            "daily-life-decisions"
+        ],
+        "past-continuous": [
+            "travel-experiences",
+            "accidents-and-incidents",
+            "school-events",
+            "family-stories",
+            "weekend-activities"
+        ],
+        "present-perfect-ever-never-just-already-yet": [
+            "travel-experiences",
+            "sports-achievements",
+            "hobbies-and-interests",
+            "education-and-courses",
+            "important-life-events"
+        ],
+        "present-perfect-vs-past-simple": [
+            "travel-and-holidays",
+            "hobbies-and-activities",
+            "school-projects",
+            "life-milestones",
+            "sports-and-competitions"
+        ],
+        "present-perfect-with-for-since": [
+            "hobbies-and-interests",
+            "study-and-education",
+            "friendships",
+            "jobs-and-work",
+            "travel-experiences"
+        ],
+        "question-tags": [
+            "daily-conversations",
+            "friendship-and-relationships",
+            "school-discussions",
+            "sports-and-competitions",
+            "travel-situations"
+        ],
+        "reflexive-pronouns": [
+            "daily-routines",
+            "accidents-and-injuries",
+            "sports-and-fitness",
+            "feelings-and-emotions",
+            "household-chores"
+        ],
+        "reported-speech-commands": [
+            "school-instructions",
+            "travel-directions",
+            "customer-service",
+            "sports-coaching",
+            "workplace-communication"
+        ],
+        "reported-speech-questions": [
+            "school-questions",
+            "travel-enquiries",
+            "customer-service",
+            "job-interviews",
+            "friendship-and-conversations"
+        ],
+        "reported-speech-statements": [
+            "everyday-conversations",
+            "travel-stories",
+            "school-news",
+            "family-discussions",
+            "customer-service"
+        ],
+        "second-conditional": [
+            "dreams-and-ambitions",
+            "travel-wishes",
+            "career-choices",
+            "sports-strategies",
+            "education-and-courses"
+        ],
+        "should-ought-to-had-better": [
+            "health-and-wellness",
+            "advice-and-suggestions",
+            "relationships-and-friendship",
+            "sports-and-training",
+            "school-life"
+        ],
+        "simple-phrasal-verbs": [
+            "daily-life",
+            "school-activities",
+            "travel-and-tourism",
+            "sports-and-games",
+            "household-chores"
+        ],
+        "so-neither-auxiliary": [
+            "opinions-and-agreements",
+            "hobbies-and-interests",
+            "sports-and-games",
+            "travel-experiences",
+            "school-activities"
+        ],
+        "too-either-neither-both": [
+            "opinions-and-preferences",
+            "shopping-and-products",
+            "travel-experiences",
+            "sports-competitions",
+            "daily-life"
+        ],
+        "used-to": [
+            "childhood-memories",
+            "hobbies-and-interests",
+            "school-life",
+            "sports-and-training",
+            "travel-and-experiences"
+        ]
+    },
+    "B1-B2": {
+        "adverbial-time-contrast-reason": [
+            "education-and-learning",
+            "travel-and-holidays",
+            "sports-and-competitions",
+            "relationships-and-friendships",
+            "daily-life-situations"
+        ],
+        "causative-structures": [
+            "beauty-and-fashion",
+            "car-mechanics",
+            "cars",
+            "home-improvement",
+            "technology-maintenance"
+        ],
+        "collocations-make-do-take-get": [
+            "education-and-studies",
+            "sports-and-exercise",
+            "business-and-work",
+            "travel-and-preparations",
+            "daily-activities"
+        ],
+        "future-continuous": [
+            "travel-and-itineraries",
+            "work-projects",
+            "education-and-courses",
+            "sports-events",
+            "personal-goals"
+        ],
+        "future-perfect": [
+            "career-achievements",
+            "study-plans",
+            "travel-experiences",
+            "sports-records",
+            "life-milestones"
+        ],
+        "future-perfect-continuous": [
+            "career-and-professional-life",
+            "environmental-changes",
+            "life-milestones",
+            "scientific-advancements",
+            "travel-plans-and-itineraries"
+        ],
+        "gerunds-infinitives-advanced": [
+            "career-and-professional-life",
+            "sports-and-training",
+            "education-and-learning",
+            "travel-and-adventures",
+            "hobbies-and-leisure"
+        ],
+        "mixed-conditionals": [
+            "economic-situations",
+            "historical-events-and-alternatives",
+            "regrets-and-hypothetical-situations",
+            "relationships-and-life-choices",
+            "science-fiction-and-alternate-futures"
+        ],
+        "modals-in-the-past": [
+            "astronomy",
+            "beach",
+            "daily-life",
+            "holidays",
+            "school"
+        ],
+        "modal-verbs-of-deduction": [
+            "crime-and-mystery",
+            "cultural-differences-and-misunderstandings",
+            "health-and-symptoms",
+            "science-experiments",
+            "social-situations-and-behavior"
+        ],
+        "participle-clauses": [
+            "city-life-and-street-descriptions",
+            "daily-routines-and-habits",
+            "festivals-and-cultural-events",
+            "nature-and-outdoor-activities",
+            "travel-stories"
+        ],
+        "passive-voice-present-past-simple": [
+            "art-and-cultural-heritage",
+            "daily-life",
+            "diplomatic-relations",
+            "inventions-and-discoveries",
+            "news-reports-and-journalism"
+        ],
+        "passive-voice-present-perfect-future-modals": [
+            "business-and-contracts",
+            "friends",
+            "scientific-research",
+            "technology-and-innovation",
+            "visiting-foreign-countries"
+        ],
+        "past-perfect": [
+            "dogs",
+            "electric-cars",
+            "habits",
+            "languages",
+            "responsibilities"
+        ],
+        "question-formation": [
+            "interviews-and-surveys",
+            "school-questions",
+            "customer-service",
+            "travel-enquiries",
+            "daily-conversations"
+        ],
+        "reported-speech": [
+            "workplace-communication",
+            "customer-service",
+            "interviews-and-meetings",
+            "school-reports",
+            "family-discussions"
+        ],
+        "so-do-I-neither-do-I": [
+            "opinions-and-agreements",
+            "hobbies-and-interests",
+            "sports-and-games",
+            "travel-experiences",
+            "school-activities"
+        ],
+        "third-conditional": [
+            "personal-regrets",
+            "travel-mishaps",
+            "sports-results",
+            "career-decisions",
+            "friendship-situations"
+        ],
+        "wish-if-only": [
+            "travel-experiences",
+            "personal-life-decisions",
+            "friendships-and-relationships",
+            "education-and-courses",
+            "career-opportunities"
+        ]
+    },
+    "B2": {
+        "adjective-order": [
+            "fashion-and-clothing",
+            "describing-people",
+            "shopping-and-products",
+            "interior-design",
+            "gifts-and-souvenirs"
+        ],
+        "advanced-linking-words": [
+            "academic-writing",
+            "workplace-communication",
+            "travel-stories",
+            "technology-and-innovation",
+            "formal-emails"
+        ],
+        "cleft-sentences": [
+            "personal-achievements",
+            "personal-relationships",
+            "famous-discoveries",
+            "education-and-learning",
+            "hobbies-and-interests"
+        ],
+        "ellipsis-and-substitution": [
+            "academic-writing",
+            "workplace-communication",
+            "travel-reports",
+            "news-reports",
+            "debates-and-discussions"
+        ],
+        "emphatic-structures": [
+            "career-ambitions",
+            "relationships-and-friendships",
+            "shopping-and-customer-service",
+            "hobbies-and-passions",
+            "education-and-learning"
+        ],
+        "future-in-the-past": [
+            "missed-opportunities",
+            "travel-itineraries",
+            "project-management",
+            "famous-inventions",
+            "personal-goals"
+        ],
+        "idiomatic-modal-verbs": [
+            "advice-and-recommendations",
+            "speculation-about-the-past",
+            "rules-and-regulations",
+            "certainty-and-doubt",
+            "travel-and-safety-tips"
+        ],
+        "inversion-of-emphasis": [
+            "academic-writing",
+            "travel-stories",
+            "career-achievements",
+            "sports-commentary",
+            "personal-experiences"
+        ],
+        "nominalization": [
+            "academic-writing",
+            "business-and-reports",
+            "formal-communication",
+            "education-and-study",
+            "project-presentations"
+        ],
+        "passive-infinitive-modals": [
+            "work-projects",
+            "product-development",
+            "customer-service-situations",
+            "education-and-assignments",
+            "technology-and-innovation"
+        ],
+        "passive-with-reporting": [
+            "workplace-communication",
+            "news-reports",
+            "education-and-research",
+            "customer-feedback",
+            "sports-news"
+        ],
+        "reported-speech": [
+            "interviews-and-meetings",
+            "news-and-media",
+            "workplace-communication",
+            "school-reports",
+            "customer-service-scenarios"
+        ]
+    }
+}
