@@ -31,8 +31,10 @@ The deployment script will:
 - Fix file permissions on the server
 - Purge Cloudflare cache
 
-**Note:** The `.env` file contains sensitive information and is automatically ignored by git.
-**Note:** Database info (generated grammar tests) will be stored under the local `data` folder and will persist between Docker container launches.
-**Note:** The current test generation algorithm does not have a 100% success rate, as some of the generated tests answer options are too varied to be possible to split into clean answers with no more than two slashes. 
-**Note:** You need your own server to deploy the static site to, and for that server to include an Nginx configuration similar to the example provided in `example.conf`.
-**Note:** Nginx handles some important broken link redirects. Look at `example.conf` for more information. 
+## Notes
+
+- The `.env` file contains sensitive information and is automatically ignored by git.
+- Database info (generated grammar tests) will be stored under the local `data` folder and will persist between Docker container launches.
+- The current test generation algorithm does not have a 100% success rate, as some of the generated tests answer options are too varied to be possible to split into clean answers with no more than two slashes. 
+- You need your own server to deploy the static site to, and for that server to include an Nginx configuration similar to the example provided in `example.conf`.
+- Nginx handles some important broken link redirects. Look at `example.conf` for more information. 
